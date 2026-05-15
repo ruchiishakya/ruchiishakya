@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ruchi Shakya 👋
 
-<!--
-**ruchiishakya/ruchiishakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc. Data Science · Kathmandu University · 2nd year · Nepal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Bachelor of Data Science** · Kathmandu University, Department of Mathematics  
+2nd Year (2024 – Present) · Dhulikhel, Kavre, Nepal
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  · Python · R · SQL · Java  
+**ML/DS**      · scikit-learn · pandas · numpy · matplotlib · Keras  
+**Tools**      · Git · Jupyter · VS Code  
+**Exploring**  · Deep Learning · Neural Networks · Open Source · Data Storytelling
+
+---
+
+## 📫 Connect
+
+* 📧 [ruchis4491@gmail.com](mailto:ruchis4491@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ruchi-shakya-339800355)
+* 📍 Kathmandu, Nepal
